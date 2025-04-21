@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of My Projects Are Available At [https://github.com/hamadkhanpro/](https://github.com/hamadkhanpro/)
 
-- ⚡ Fun Fact **I Am Funny😅**
+- ⚡ Fun Fact **I Am Funny 😅**
 
 <h3 align="left">Connect With Me:</h3>
 <p align="left">
