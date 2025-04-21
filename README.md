@@ -13,7 +13,7 @@
 <h3 align="left">Connect With Me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/@hamadkhantech" target="blank"><img align="center" src="https://github.com/user-attachments/assets/f5e737b9-2669-4c29-99db-1daa056bff62" alt="hamadkhantech" height="40" width="40" /></a>
-<a href="https://www.instagram.com/hamadkhan_987/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hamadkhantech" height="30" width="40" /></a>
+<a href="https://www.instagram.com/hamadkhan_987/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hamadkhantech" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages And Tools:</h3>
