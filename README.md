@@ -12,7 +12,6 @@
 
 <h3 align="left">Connect With Me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/@hamadkhantech" target="blank"><img align="center" src="(https://github.com/user-attachments/assets/da19f4b1-d03b-4c90-835d-6adb18bc7409)" alt="hamadkhantech" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@hamadkhantech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hamadkhantech" height="30" width="40" /></a>
 <a href="https://www.instagram.com/hamadkhan_987/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hamadkhantech" height="30" width="40" /></a>
 </p>
