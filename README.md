@@ -2,7 +2,7 @@
 <h1 align="center">HI FRIENDS! MY NAME IS HAMAD KHAN AND I'M A PERFECT FREELANCER</h1>
 <h3 align="center">A Passionate Computer Science Student From Pakistan</h3>
 
-<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/204c5cd4-cc94-4ead-81f1-7d741280fd68.gif">
+<img align="right" alt="coding" width="400" src="![Image](https://github.com/user-attachments/assets/204c5cd4-cc94-4ead-81f1-7d741280fd68).gif">
 
 <p align="left"> <img src="https://github.com/user-attachments/assets/70c78c50-a281-42d5-8668-9dd961033daf" alt="hamadkhanpro" /> </p>
 
