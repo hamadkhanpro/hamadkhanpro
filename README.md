@@ -2,7 +2,7 @@
 <h1 align="center">HI FRIENDS! MY NAME IS HAMAD KHAN AND I'M A PERFECT FREELANCER</h1>
 <h3 align="center">A Passionate Computer Science Student From Pakistan</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/6b655172-53e0-4fc7-b8a6-1a70cc2706dd">
 
 <p align="left"> <img src="https://github.com/user-attachments/assets/70c78c50-a281-42d5-8668-9dd961033daf" alt="hamadkhanpro" /> </p>
 
@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect With Me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/@hamadkhantech" target="blank"><img align="center" src="https://github.com/user-attachments/assets/6c1ce7e0-9cc0-45dd-89f2-01579bb467b0" alt="hamadkhantech" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@hamadkhantech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hamadkhantech" height="30" width="40" /></a>
 <a href="https://www.instagram.com/hamadkhan_987/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hamadkhantech" height="30" width="40" /></a>
 </p>
 
