@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect With Me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/@hamadkhantech" target="blank"><img align="center" src="https://github.com/user-attachments/assets/6c1ce7e0-9cc0-45dd-89f2-01579bb467b0.png" alt="hamadkhantech" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@hamadkhantech" target="blank"><img align="center" src="https://github.com/user-attachments/assets/6c1ce7e0-9cc0-45dd-89f2-01579bb467b0" alt="hamadkhantech" height="30" width="40" /></a>
 <a href="https://www.instagram.com/hamadkhan_987/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hamadkhantech" height="30" width="40" /></a>
 </p>
 
