@@ -12,13 +12,13 @@
 
 <h3 align="left">Connect With Me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/@hamadkhantech" target="blank"><img align="center" src="https://github.com/user-attachments/assets/a8b19a43-853f-4560-b704-11c7f3dc6022" alt="hamadkhantech" height="40" width="40" /></a>
-<a href="https://www.instagram.com/hamadkhan_987/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/63f8a85b-c7d3-4b01-a567-f6f137ed40fd" alt="hamadkhantech" height="40" width="40" /></a>
-<a href="https://www.youtube.com/@hamadkhantech" target="blank"><img align="center" src="https://github.com/user-attachments/assets/16ef6742-a631-40e5-81cd-7ad1d69fa54a" alt="hamadkhantech" height="40" width="40" /></a>
-<a href="https://www.youtube.com/@hamadkhantech" target="blank"><img align="center" src="https://github.com/user-attachments/assets/f5e737b9-2669-4c29-99db-1daa056bff62" alt="hamadkhantech" height="40" width="40" /></a>
-<a href="https://www.youtube.com/@hamadkhantech" target="blank"><img align="center" src="https://github.com/user-attachments/assets/43008a32-9f99-41e4-9d59-80fb74581448" alt="hamadkhantech" height="40" width="40" /></a>
-<a href="https://www.youtube.com/@hamadkhantech" target="blank"><img align="center" src="https://github.com/user-attachments/assets/49f1ca92-3021-43ff-8003-87ee017819e0" alt="hamadkhantech" height="40" width="40" /></a>
-<a href="https://www.youtube.com/@hamadkhantech" target="blank"><img align="center" src="https://github.com/user-attachments/assets/ed34df43-5f13-4927-9bb8-153241de2df7" alt="hamadkhantech" height="40" width="40" /></a>
+<a href="https://github.com/hamadkhanpro" target="blank"><img align="center" src="https://github.com/user-attachments/assets/a8b19a43-853f-4560-b704-11c7f3dc6022" alt="hamadkhantech" height="40" width="40" /></a>
+<a href="https://github.com/hamadkhanpro" target="blank"><img align="center" src="https://github.com/user-attachments/assets/63f8a85b-c7d3-4b01-a567-f6f137ed40fd" alt="hamadkhantech" height="40" width="40" /></a>
+<a href="https://www.fiverr.com/hamadkhantech/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/16ef6742-a631-40e5-81cd-7ad1d69fa54a" alt="hamadkhantech" height="40" width="40" /></a>
+<a href="https://www.upwork.com/freelancers/hamadk27" target="blank"><img align="center" src="https://github.com/user-attachments/assets/f5e737b9-2669-4c29-99db-1daa056bff62" alt="hamadkhantech" height="40" width="40" /></a>
+<a href="https://www.facebook.com/hamadkhan987" target="blank"><img align="center" src="https://github.com/user-attachments/assets/43008a32-9f99-41e4-9d59-80fb74581448" alt="hamadkhantech" height="40" width="40" /></a>
+<a href="https://www.instagram.com/hamadkhan_987/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/49f1ca92-3021-43ff-8003-87ee017819e0" alt="hamadkhantech" height="40" width="40" /></a>
+<a href="https://www.snapchat.com/add/hamadkhan_987" target="blank"><img align="center" src="https://github.com/user-attachments/assets/ed34df43-5f13-4927-9bb8-153241de2df7" alt="hamadkhantech" height="40" width="40" /></a>
 <a href="https://www.youtube.com/@hamadkhantech" target="blank"><img align="center" src="https://github.com/user-attachments/assets/cec6dd1f-a6fa-4844-9287-faeda12a94ef" alt="hamadkhantech" height="58" width="55" /></a>
 </p>
 
