@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect With Me:</h3>
 <p align="left">
-<a href="https://github.com/hamadkhanpro" target="blank"><img align="center" src="https://github.com/user-attachments/assets/d3c8abf7-eee5-44e4-a386-f1aba3fd95c2" alt="hamadkhantech" height="50" width="50" /></a>
+<a href="https://github.com/hamadkhanpro" target="blank"><img align="center" src="https://github.com/user-attachments/assets/d3c8abf7-eee5-44e4-a386-f1aba3fd95c2" alt="hamadkhantech" height="40" width="40" /></a>
 <a href="https://github.com/hamadkhanpro" target="blank"><img align="center" src="https://github.com/user-attachments/assets/09fc0101-c441-49c9-a2d5-90b8c24a176d" alt="hamadkhantech" height="40" width="40" /></a>
 <a href="https://www.fiverr.com/hamadkhantech/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/16ef6742-a631-40e5-81cd-7ad1d69fa54a" alt="hamadkhantech" height="40" width="40" /></a>
 <a href="https://www.upwork.com/freelancers/hamadk27" target="blank"><img align="center" src="https://github.com/user-attachments/assets/de4f0398-ab43-4769-9986-43b178435aad" alt="hamadkhantech" height="40" width="40" /></a>
