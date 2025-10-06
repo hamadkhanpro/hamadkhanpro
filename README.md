@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://github.com/user-attachments/assets/70c78c50-a281-42d5-8668-9dd961033daf" alt="hamadkhanpro" /> </p>
 
-- 👨‍💻 Portfolio: https://hamadkhan.infy.uk/
-
 - 👨‍💻 All of My Projects Are Available At: [https://github.com/hamadkhanpro/](https://github.com/hamadkhanpro/)
+
+- 👨‍💻 Portfolio: https://hamadkhan.infy.uk/
 
 - ⚡ Fun Fact **I Am Funny 😅**
 
